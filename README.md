@@ -6,6 +6,10 @@ COVID-19 Data Analysis in West Africa
 Overview
 
 This repository contains a data analysis project focused on COVID-19 vaccinations and deaths in the 10 most populated West African countries. The analysis explores the trends, patterns, and insights related to COVID-19 vaccinations and fatalities in the region.
+
+
+
+
 Data Sources
 
 
